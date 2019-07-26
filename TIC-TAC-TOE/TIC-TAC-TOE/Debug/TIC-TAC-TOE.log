@@ -1,0 +1,3 @@
+﻿  tictactoe.cpp
+c:\users\rkhamidulin\desktop\programming\tic-tac-toe\tic-tac-toe\tic-tac-toe\tictactoe.cpp(115): warning C4715: 'play_and_get_winner': not all control paths return a value
+  TIC-TAC-TOE.vcxproj -> C:\Users\rkhamidulin\Desktop\Programming\TIC-TAC-TOE\TIC-TAC-TOE\Debug\TIC-TAC-TOE.exe
